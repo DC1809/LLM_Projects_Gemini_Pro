@@ -15,8 +15,8 @@ from PIL import Image
 import google.generativeai as genai
 
 
-os.getenv("AIzaSyAcXdWGzJwzXxhL4NhYkXLGuTOyLMtegYY")
-genai.configure(api_key=os.getenv("AIzaSyAcXdWGzJwzXxhL4NhYkXLGuTOyLMtegYY"))
+os.getenv("YOUR_API_KEY")
+genai.configure(api_key=os.getenv("YOUR_KEY"))
 
 ## Function to load OpenAI model and get respones
 
