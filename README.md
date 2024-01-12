@@ -46,10 +46,10 @@ Run the application using Streamlit:<br>
 **Receive Answers:** The application will process your question and provide an answer based on the PDF content.<br>
 
 ### Gemini Image Demo
-**Launch the Application:** After running the app, navigate to the local URL provided by Streamlit.
-**Upload an Invoice Image:** Use the interface to upload an invoice image in the supported formats.
-**Enter a Text Prompt:** type a prompt or question related to the invoice in the text input field.
-**Generate Insights:** Click the button to generate a response. The AI will analyze the image with the text prompt and provide relevant information.
+**Launch the Application:** After running the app, navigate to the local URL provided by Streamlit.<br>
+**Upload an Invoice Image:** Use the interface to upload an invoice image in the supported formats.<br>
+**Enter a Text Prompt:** type a prompt or question related to the invoice in the text input field.<br>
+**Generate Insights:** Click the button to generate a response. The AI will analyze the image with the text prompt and provide relevant information.<br>
 
 
 ## Technology Stack
