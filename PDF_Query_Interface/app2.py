@@ -8,7 +8,7 @@ from langchain.chains import RetrievalQA
 from langchain.chains.question_answering import load_qa_chain
 
 # Configuration for Google Generative AI
-google_api_key = 'AIzaSyAcXdWGzJwzXxhL4NhYkXLGuTOyLMtegYY'
+google_api_key = 'YOUR_KEY'
 
 
 def get_pdf_text(pdf_docs):
